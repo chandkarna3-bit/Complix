@@ -241,6 +241,7 @@ This project has been developed for educational, research, and laboratory automa
 ## Authors
 
 **Pranav Gowda N G**
+**Chandana S**
 
 Department of Information Science and Technology
 
